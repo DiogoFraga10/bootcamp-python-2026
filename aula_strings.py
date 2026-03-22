@@ -1,5 +1,5 @@
 # 1. DEFININDO O TEXTO COM ESPAÇOS E UMA LISTA
-nome = "   Cauã Diogo   "
+nome = "   Diogo Fraga   "
 tecnologias = ["Python", "ADS", "VS Code"]
 
 print("--- MÉTODOS DE LIMPEZA E FORMATAÇÃO ---")
